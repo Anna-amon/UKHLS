@@ -6,7 +6,7 @@ This report is the beginning of a research piece considering life satisfaction i
  
 ### Dependent Variables
 
-The UK Household Longitudinal Study (UKHLS) uses the General Health Questionnaire (GHQ) to assess wellbeing. The wellbeing measure used in this research will be the answers to the 12 questions, summed up to give a scale of 0 (least distressed) to 36 (most distressed). In this research the variable has been re-coded, with a score of 0 indicating the most distress, and 36 the least distress. This is so the scale is in line with the life satisfaction variable, with the higher end of both scales pointing toward higher well-being and life satisfaction.
+The UK Household Longitudinal Study (UKHLS) uses the General Health Questionnaire (GHQ) to assess wellbeing. The wellbeing measure used in this research will be the answers to the 12 questions, summed up to give a scale of 0 (least distressed) to 36 (most distressed). In this research the variable has been re-coded, with a score of 0 indicating the most distress, and 36 the least distress. 
 
 ### Wellbeing, Life Satisfaction and the U-shaped curve
 
